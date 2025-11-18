@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+	int i=0;
+	while(i<=5)
+	{
+		printf("%d\t",i+2);
+		i++;
+	}
+	return 0;
+	
+}
+
